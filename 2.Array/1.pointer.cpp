@@ -1,3 +1,5 @@
+//make an array with pointer
+
 #include<iostream>
 using namespace std;
 

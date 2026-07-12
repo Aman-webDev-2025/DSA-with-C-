@@ -1,3 +1,5 @@
+//print element in 2d array using single and double pointer
+
 #include<iostream>
 using namespace std;
 
